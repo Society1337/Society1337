@@ -14,9 +14,9 @@
 
 # 🔎 GitHub Stats :
 ---
-![](https://github-readme-stats.vercel.app/api?username=KirobotDev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KirobotDev&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KirobotDev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirobotdev&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=Society1337&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Society1337&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Society1337&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Society1337&theme=github_dark)
 
 ---
